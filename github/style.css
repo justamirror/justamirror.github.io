@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Nabla&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Cinzel', serif;
+}
+body {
+  margin:0;
+  padding:0;
+  margin-top: -7px;
+  margin-right: -1px;
+  text-align: right;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nabla', cursive;
+  padding: inherit;
+  margin: inherit;
+}
+hl {
+  background-color:black;
+  color:white;
+}
+*:hover {
+  text-align: left;
+}
+body:hover {
+  text-align: right;
+}
